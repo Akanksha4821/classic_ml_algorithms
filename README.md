@@ -14,6 +14,10 @@ This repository contains beginner-friendly Jupyter Notebooks implementing founda
   📁 **Dataset used**: [`data/Purchase_Logistic.csv`](data/Purchase_Logistic.csv)
   🔍 Includes feature scaling, KNN training, evaluation, and visualizations 
 
+- **[Titanic Survival Prediction using Logistic Regression](logistic_regression_titanic.ipynb)**  
+  Classification of Titanic passengers to predict survival using logistic regression.  
+  📁 **Dataset used**: [`data/titanic (1).csv`](data/titanic%20(1).csv)  
+  ⚙️ Includes data preprocessing (handling missing values, encoding), model training, and accuracy evaluation 
 
 
 
