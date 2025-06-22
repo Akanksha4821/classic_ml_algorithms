@@ -23,6 +23,12 @@ This repository contains beginner-friendly Jupyter Notebooks implementing founda
   A simple linear regression model that predicts salary based on years of experience.  
   📁 **Dataset used**: [`data/Salary_Data.csv`](data/Salary_Data.csv)  
   📈 Covers visualization, model training, prediction, and regression line plotting — with clear beginner-level guidance.
+
+- **[USA Housing Price Prediction using Multiple Linear Regression](multiple_linear_regression_usa_housing.ipynb)**  
+  Predicts house prices using features like area income, number of rooms, and more with multiple linear regression.  
+  📁 **Dataset used**: [`data/USA_Housing.csv`](data/USA_Housing.csv)  
+  🏠 Covers data preprocessing, visualization, model training, and performance metrics 
+  
   
 
 
