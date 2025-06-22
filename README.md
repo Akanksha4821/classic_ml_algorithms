@@ -9,9 +9,9 @@ This repository contains beginner-friendly Jupyter Notebooks implementing founda
   📁 **Dataset used**: [`data/cancer.csv`](data/cancer.csv)  
   📌 Predicts whether a tumor is benign or malignant using diagnostic features.
 
-  - **[KNN Classification with 3 Features](knn_3_features.ipynb)**  
+- **[KNN Classification with 3 Features](knn_3_features.ipynb)**  
   Applied K-Nearest Neighbors to classify purchase behavior based on 3 input features.  
-  📁 **Dataset used**: [`data/purchase.csv`](data/purchase.csv)  
+  📁 **Dataset used**: [`data/Purchase_Logistic.csv`](data/Purchase_Logistic.csv)
   🔍 Includes feature scaling, KNN training, evaluation, and visualizations 
 
 
