@@ -17,7 +17,13 @@ This repository contains beginner-friendly Jupyter Notebooks implementing founda
 - **[Titanic Survival Prediction using Logistic Regression](logistic_regression_titanic.ipynb)**  
   Classification of Titanic passengers to predict survival using logistic regression.  
   📁 **Dataset used**: [`data/titanic (1).csv`](data/titanic%20(1).csv)  
-  ⚙️ Includes data preprocessing (handling missing values, encoding), model training, and accuracy evaluation 
+  ⚙️ Includes data preprocessing (handling missing values, encoding), model training, and accuracy evaluation
+
+- **[Salary Prediction using Linear Regression](linear_regression_salary.ipynb)**  
+  A simple linear regression model that predicts salary based on years of experience.  
+  📁 **Dataset used**: [`data/Salary_Data.csv`](data/Salary_Data.csv)  
+  📈 Covers visualization, model training, prediction, and regression line plotting — with clear beginner-level guidance.
+  
 
 
 
